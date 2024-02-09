@@ -1,0 +1,23 @@
+
+body{
+    background-color:rgb(207, 35, 64);
+}
+div{
+    
+    background-color: white;
+    width: 40%;
+    border-radius:10px;
+    padding: 10px;
+    
+}
+
+span{
+    color:rgb(203, 45, 45)
+}
+form{
+    border-radius: 35px;
+}
+p{
+    display:flex
+   justify-content=flex-start
+}
